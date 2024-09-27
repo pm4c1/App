@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 {
   "singleQuote": true,
   "arrowParens": "always",
   "tabWidth": 2,
   "printWidth": 80
+=======
+
+{
+    "singleQuote" : true,
+    "arrowParens" : "always",
+    "tabWidth" : 2,
+    "printWidth" : 80
+>>>>>>> ecd14dd0eadf9540c8973b036eacbf9a8063fabe
 }

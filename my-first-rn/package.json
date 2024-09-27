@@ -11,11 +11,23 @@
   "dependencies": {
     "expo": "~51.0.28",
     "expo-status-bar": "~1.12.1",
+<<<<<<< HEAD
     "react": "18.2.0",
     "react-native": "0.74.5"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
+=======
+    "prop": "^0.1.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "types": "^0.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0",
+    "@types/react": "^18.3.8",
+    "@types/react-native": "^0.72.8"
+>>>>>>> ecd14dd0eadf9540c8973b036eacbf9a8063fabe
   },
   "private": true
 }

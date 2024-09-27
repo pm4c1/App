@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
 
@@ -18,3 +19,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+=======
+import App from './src/App';
+
+export default App;
+>>>>>>> ecd14dd0eadf9540c8973b036eacbf9a8063fabe
