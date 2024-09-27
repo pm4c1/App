@@ -1,6 +1,7 @@
-import { StatusBar } from "expo-status-bar";
-import { StyleSheet, Text, View } from "react-native";
-import SignInScreen from "./screen/SignInScreen";
+import { StatusBar } from 'expo-status-bar';
+import { StyleSheet, Text, View } from 'react-native';
+import SignInScreen from './screen/SignInScreen';
+import { WHITE } from './colors';
 
 export default function App() {
   return (
@@ -14,6 +15,8 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#ffffff",
+    backgroundColor: WHITE,
+    alignItems: 'center',
+    justifyContent: 'center',
   },
 });
